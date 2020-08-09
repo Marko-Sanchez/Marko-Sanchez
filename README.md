@@ -11,9 +11,9 @@
 [ ![ Android Studio](/img/android.png)][Android]
 [ ![ Firebase ]( /img/firebase.png)][Android]
 [ ![ C ](/img/c.png)][url-shortener]
-[ ![ C++](/img/c++.png)]
+![ C++](/img/c++.png)
 [ ![MongoDB](/img/mongodb.png)][url-shortener]
-[ ![ python ](/img/python.png)]
+![ python ](/img/python.png)
 [ ![ubuntu](/img/ubuntu.png)][ url-shortener]
 
 <br />
