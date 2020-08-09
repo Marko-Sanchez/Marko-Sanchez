@@ -2,18 +2,18 @@
 ---
 4th year Computer Science student @ University of California Santa Cruz. looking for internships in Android app development and general SWE.
 ### Connect with me:
----
+
 [![LinkedIn](/img/linkedin.png)][linkedin]
----
+
 ### Languages and Tools:
 
 [ ![Java](/img/java.png)][Android]
 [ ![ Android Studio](/img/android.png)][Android]
 [ ![ Firebase ]( /img/firebase.png)][Android]
-[ ![ C ] (/img/c.png)][url-shortener]
-[ ![ C++](/img/c++.png)][]
+[ ![ C ](/img/c.png)][url-shortener]
+[ ![ C++](/img/c++.png)]
 [ ![MongoDB](/img/mongodb.png)][url-shortener]
-[ ![ python ](/img/python.png)][]
+[ ![ python ](/img/python.png)]
 [ ![ubuntu](/img/ubuntu.png)][ url-shortener]
 
 <br />
