@@ -15,6 +15,7 @@
 [ ![MongoDB](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/mongodb.png)][url-shortener]
 ![ python ](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/python.png)
 [ ![ubuntu](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/ubuntu.png)][ url-shortener]
+![ vim ](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/vim.png)
 
 <br />
 <br />
