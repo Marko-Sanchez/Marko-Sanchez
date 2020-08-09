@@ -7,14 +7,14 @@
 
 ### Languages and Tools:
 
-[ ![Java](/img/java.png)][Android]
-[ ![ Android Studio](/img/android.png)][Android]
-[ ![ Firebase ]( /img/firebase.png)][Android]
-[ ![ C ](/img/c.png)][url-shortener]
-![ C++](/img/c++.png)
-[ ![MongoDB](/img/mongodb.png)][url-shortener]
-![ python ](/img/python.png)
-[ ![ubuntu](/img/ubuntu.png)][ url-shortener]
+[ ![Java](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/java.png)][Android]
+[ ![ Android Studio](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/android.png)][Android]
+[ ![ Firebase ]( https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/firebase.png)][Android]
+[ ![ C ](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/c.png)][url-shortener]
+![ C++](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/c++.png)
+[ ![MongoDB](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/mongodb.png)][url-shortener]
+![ python ](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/python.png)
+[ ![ubuntu](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/ubuntu.png)][ url-shortener]
 
 <br />
 <br />
