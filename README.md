@@ -1,6 +1,6 @@
 ### About Me
 ---
-4th year Computer Science student @ University of California Santa Cruz. looking for internships in Android app development and general SWE.
+Computer Science New Grad from University of California Santa Cruz. Looking for roles in back-end and general SWE.
 ### Connect with me:
 
 [![LinkedIn](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/linkedin.png)][linkedin]
@@ -19,8 +19,6 @@
 
 <br />
 <br />
-<sup><sub> If you like the icons more can be found at https://icons8.com <sub><sup>
-
 
 [linkedin]: https://www.linkedin.com/in/marco-antonio-sanchez-307b8419b/
 [github]: https://github.com/Marko-Sanchez
