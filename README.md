@@ -1,6 +1,6 @@
 ### About Me
 ---
-Computer Science Graduate from University of California, Santa Cruz ![sammy](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/slugheart.png) <br />
+Computer Science Graduate from University of California, Santa Cruz &nbsp;<img src="https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/slugheart.png" width="16" height="16"> <br />
 If you like C++ just like me feel free to connect ~
 
 ### Languages and Tools:
