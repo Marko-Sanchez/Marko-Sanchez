@@ -12,7 +12,7 @@ If you like C++ just like me feel free to connect ~
 [ ![MongoDB](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/mongodb.png)][url-shortener]
 [ ![ubuntu](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/ubuntu.png)][ url-shortener]
 [ ![ Android Studio](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/android.png)][Android]
-![ vim ](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/vim.png)
+![ nvim ](https://github.com/Marko-Sanchez/Marko-Sanchez/blob/master/img/nvim.png)
 
 ### Connect with me:
 
